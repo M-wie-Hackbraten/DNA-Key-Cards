@@ -4,5 +4,5 @@ Ihr könnt natürlich nochmal vieles selbst einstellen. Als Anmerkung ist zu sag
 
 Enthalten sind:
 
-1 Morty Weapons
-2 Snafu Weapons
+1. Morty Weapons
+2. Snafu Weapons
