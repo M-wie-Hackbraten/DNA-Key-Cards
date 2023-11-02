@@ -1,0 +1,71 @@
+										### Yellow		Morty Weapons ####
+
+{
+  "m_DNAConfig_Weapons": [
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "main",
+		  "dna_TheChosenOne": "TTC_MP5SD",
+		  "dna_Magazine": "Mag_MP5_30Rnd",
+		  "dna_Ammunition": "AmmoBox_9x19_25rnd",
+		  "dna_OpticType": "TTC_Holo",
+		  "dna_Suppressor": "",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "main",
+		  "dna_TheChosenOne": "TTC_MP7A1",
+		  "dna_Magazine": "TTC_MP7A1_Mag_40rnd",
+		  "dna_Ammunition": "TTC_AmmoBox_4630_20Rnd",
+		  "dna_OpticType": "TTC_Holo",
+		  "dna_Suppressor": "TTC_PistolSuppressor",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "main",
+		  "dna_TheChosenOne": "TTC_MPX",
+		  "dna_Magazine": "TTC_MPX_Mag_30rnd",
+		  "dna_Ammunition": "AmmoBox_9x19_25rnd",
+		  "dna_OpticType": "TTC_Holo",
+		  "dna_Suppressor": "TTC_Universal_Suppressor_BLACK",
+		  "dna_UnderBarrel": "UniversalLight",
+		  "dna_ButtStock": "TTC_MPXMCX2_Bttstck",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "main",
+		  "dna_TheChosenOne": "TTC_PP91",
+		  "dna_Magazine": "TTC_PP91_Mag_20rnd",
+		  "dna_Ammunition": "AmmoBox_380_35rnd",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "TTC_Universal_Suppressor_BLACK",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "main",
+		  "dna_TheChosenOne": "TTC_UZI",
+		  "dna_Magazine": "TTC_UZI_Mag_30rnd",
+		  "dna_Ammunition": "AmmoBox_9x19_25rnd",
+		  "dna_OpticType": "TTC_Pistol_Optic",
+		  "dna_Suppressor": "TTC_Universal_Suppressor_BLACK",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+	]
+}

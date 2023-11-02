@@ -1,0 +1,110 @@
+										###yellow	Morty Weapons (Pistols)####
+
+{
+  "m_DNAConfig_Weapons": [
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_Deagle",
+		  "dna_Magazine": "TTC_Deagle_Magazine_7rnd",
+		  "dna_Ammunition": "",
+		  "dna_OpticType": "TTC_Pistol_Optic",
+		  "dna_Suppressor": "TTC_PistolSuppressor",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_Glock17",
+		  "dna_Magazine": "TTC_Mag_Glock_17Rnd",
+		  "dna_Ammunition": "",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "TTC_PistolSuppressor",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_Kimber",
+		  "dna_Magazine": "Mag_Kimber1911_10Rnd",
+		  "dna_Ammunition": "",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "TTC_PistolSuppressor",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_M9",
+		  "dna_Magazine": "TTC_Mag_M9_15Rnd",
+		  "dna_Ammunition": "",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "TTC_PistolSuppressor",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_M9_Custom",
+		  "dna_Magazine": "TTC_Mag_M9_Custom_20Rnd",
+		  "dna_Ammunition": "",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "TTC_PistolSuppressor",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_P320",
+		  "dna_Magazine": "TTC_P320_17Rnd",
+		  "dna_Ammunition": "",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "TTC_PistolSuppressor",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_44Magnum",
+		  "dna_Magazine": "",
+		  "dna_Ammunition": "TTC_Ammo_44Mag",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+		{
+		  "dna_Tier": "yellow",
+		  "dna_WeaponCategory": "side",
+		  "dna_TheChosenOne": "TTC_44Magnum_Black",
+		  "dna_Magazine": "",
+		  "dna_Ammunition": "TTC_Ammo_44Mag",
+		  "dna_OpticType": "",
+		  "dna_Suppressor": "",
+		  "dna_UnderBarrel": "",
+		  "dna_ButtStock": "",
+		  "dna_HandGuard": "",
+		  "dna_Wrap": ""
+		},
+	]
+}
