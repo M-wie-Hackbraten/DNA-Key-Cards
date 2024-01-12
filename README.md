@@ -6,3 +6,4 @@ Enthalten sind:
 
 1. Morty Weapons
 2. Snafu Weapons
+3. Tactical Flava
