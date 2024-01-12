@@ -1,0 +1,56 @@
+{
+  "m_DNAConfig_Weapons": [
+		{
+			"dna_Tier": "red",
+			"dna_WeaponCategory": "main",
+			"dna_TheChosenOne": "TF_M79_AOR1",
+			"dna_Magazine": "",
+			"dna_Ammunition": "Ammo_40mm_Explosive",
+			"dna_OpticType": "TF_DeltaPointOptic_Black",
+			"dna_Suppressor": "",
+			"dna_UnderBarrel": "",
+			"dna_ButtStock": "",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "red",
+			"dna_WeaponCategory": "main",
+			"dna_TheChosenOne": "TF_M79",
+			"dna_Magazine": "",
+			"dna_Ammunition": "Ammo_40mm_Explosive",
+			"dna_OpticType": "TF_DeltaPointOptic_Black",
+			"dna_Suppressor": "",
+			"dna_UnderBarrel": "",
+			"dna_ButtStock": "",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "red",
+			"dna_WeaponCategory": "main",
+			"dna_TheChosenOne": "TF_MAR10",
+			"dna_Magazine": "TF_Mag_MAR10_10Rnd",
+			"dna_Ammunition": "TF_Ammo_338LM",
+			"dna_OpticType": "TF_ElcanSpecterDROptic_Black",
+			"dna_Suppressor": "TF_MAR10_Suppressor",
+			"dna_UnderBarrel": "TF_Atlas_Bipod",
+			"dna_ButtStock": "TF_M4CraneBttstck",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "red",
+			"dna_WeaponCategory": "main",
+			"dna_TheChosenOne": "TF_Anzio20",
+			"dna_Magazine": "TF_Mag_Anzio20_3Rnd",
+			"dna_Ammunition": "TF_Ammo_20mm",
+			"dna_OpticType": "HuntingOptic",
+			"dna_Suppressor": "",
+			"dna_UnderBarrel": "",
+			"dna_ButtStock": "",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
+		}
+	]
+}

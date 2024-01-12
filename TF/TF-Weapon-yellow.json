@@ -1,0 +1,43 @@
+{
+  "m_DNAConfig_Weapons": [
+		{
+			"dna_Tier": "yellow",
+			"dna_WeaponCategory": "side",
+			"dna_TheChosenOne": "TF_MakarovPB",
+			"dna_Magazine": "Mag_IJ70_8Rnd",
+			"dna_Ammunition": "Ammo_380",
+			"dna_OpticType": "",
+			"dna_Suppressor": "TF_MakarovPB_Suppressor",
+			"dna_UnderBarrel": "",
+			"dna_ButtStock": "",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "yellow",
+			"dna_WeaponCategory": "side",
+			"dna_TheChosenOne": "TF_MP443",
+			"dna_Magazine": "TF_Mag_MP443_18Rnd",
+			"dna_Ammunition": "Ammo_9x19",
+			"dna_OpticType": "",
+			"dna_Suppressor": "",
+			"dna_UnderBarrel": "",
+			"dna_ButtStock": "",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "yellow",
+			"dna_WeaponCategory": "side",
+			"dna_TheChosenOne": "TF_FiveSeven",
+			"dna_Magazine": "TF_Mag_FiveSeven_20Rnd",
+			"dna_Ammunition": "TF_Ammo_57",
+			"dna_OpticType": "FNP45_MRDSOptic",
+			"dna_Suppressor": "PistolSuppressor",
+			"dna_UnderBarrel": "TLRLight",
+			"dna_ButtStock": "",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
+		}
+	]
+}
